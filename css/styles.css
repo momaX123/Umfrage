@@ -1,0 +1,56 @@
+body {
+    background-image: url('/img/image copy 2.png');
+    background-size: 53%;
+    background-attachment: fixed;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#container1 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 60%;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    background-color: mistyrose;
+    color: black;
+}
+
+#text {
+text-align: center;
+width: 80%;
+margin: auto;
+}
+
+a:link {
+    color: lightblue;
+}
+
+a:hover {
+    color: red;
+}
+
+a:visited {
+    color: violet;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+#charts p {
+    font-size: 10px;
+    width: 80%;
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    width: 70%;
+    height: 20%;
+}
+
+#end ul {
+    list-style: upper-alpha;
+}
